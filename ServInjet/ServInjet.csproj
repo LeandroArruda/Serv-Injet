@@ -502,6 +502,7 @@
     <Content Include="Areas\Admin\vendor\font-awesome\scss\_stacked.scss" />
     <Content Include="Areas\Admin\vendor\font-awesome\scss\_variables.scss" />
     <Content Include="Areas\Admin\Views\Inicio\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Inicio\Contato.cshtml" />
     <None Include="Properties\PublishProfiles\FTP UolHost.pubxml" />
     <Content Include="Views\Inicio\Contato.cshtml" />
     <Content Include="Views\Inicio\Projetos.cshtml" />
